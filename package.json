@@ -1,0 +1,26 @@
+{
+  "name": "iron_dome_ops-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tprhoahau156348-lab/Iron_Dome_Ops-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tprhoahau156348-lab/Iron_Dome_Ops-/issues"
+  },
+  "homepage": "https://github.com/tprhoahau156348-lab/Iron_Dome_Ops-#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.1"
+  }
+}
